@@ -1,4 +1,6 @@
-# Contributing to Active Directory FICAM Integration
+# Contributing to the Federal Identity, Credential, and Access Management (FICAM) Integration
+
+This site builds the Federal Identity, Credential, and Access Management architecture for Version 3.0. Key areas include how to contribute, repository folders, and general rules.
 
 Thank you for your interest in improving this repository! We welcome contributions that enhance federal compliance, tighten identity architectures, and expand directory automation utilities.
 
